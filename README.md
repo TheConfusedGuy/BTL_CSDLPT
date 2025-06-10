@@ -65,7 +65,7 @@ Một phương pháp phân mảnh hiệu quả cần đảm bảo một số ti�
 
 ---
 
-## **2. CẤU TRÚC DỮ LIỆU
+## **2. CẤU TRÚC DỮ LIỆU**
 
 #### **Bảng chính (Master Table)**
 ```sql
